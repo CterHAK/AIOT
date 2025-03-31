@@ -1,0 +1,19 @@
+THÔNG TIN HUẤN LUYỆN MÔ HÌNH CVAE
+=================================
+
+Tham số huấn luyện:
+- Kích thước batch: 64
+- Số epoch: 100
+- Tốc độ học: 0.0001
+
+Kết quả huấn luyện:
+- Số epoch đã huấn luyện: 100
+- Loss cuối cùng (train): 0.0252
+- Loss cuối cùng (validation): 0.0250
+- Reconstruction loss cuối cùng: 0.0252
+- KL loss cuối cùng: 0.0000
+- Thời gian huấn luyện: 240.19 giây
+
+Đường dẫn đến mô hình đã lưu:
+- Mô hình cuối cùng: /content/drive/MyDrive/bidmc/models/cvae_final.weights.h5
+- Mô hình checkpoint: /content/drive/MyDrive/bidmc/models/cvae_checkpoint.weights.h5
