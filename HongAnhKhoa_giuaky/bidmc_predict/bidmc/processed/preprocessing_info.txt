@@ -1,0 +1,25 @@
+THÔNG TIN TIỀN XỬ LÝ DỮ LIỆU
+============================
+
+Số lượng bản ghi đã xử lý: 53/53
+Tổng số đoạn tín hiệu: 6307
+
+Tham số tiền xử lý:
+- Tần số lấy mẫu: 125 Hz
+- Độ dài đoạn tín hiệu: 1000 mẫu (8.0 giây)
+- Độ chồng lấp: 50.0%
+- Tần số cắt dưới: 0.5 Hz
+- Tần số cắt trên: 8.0 Hz
+- Bậc bộ lọc: 4 (cải tiến để lọc nhiễu tốt hơn)
+
+Kích thước dữ liệu:
+- Tập huấn luyện: 5045 mẫu
+- Tập kiểm thử: 1262 mẫu
+
+Thống kê HR (không chuẩn hóa):
+- Min: 63.00, Max: 126.00
+- Mean: 89.15, Std: 12.76
+
+Thống kê RR (không chuẩn hóa):
+- Min: 4.00, Max: 25.00
+- Mean: 17.57, Std: 3.65

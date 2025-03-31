@@ -1,0 +1,13 @@
+PHÂN TÍCH PHỔ TẦN SỐ
+=====================
+
+Số mẫu phân tích: 5
+Tần số lấy mẫu: 125 Hz
+Độ dài tín hiệu: 1000 mẫu
+
+Thông tin mẫu:
+- Mẫu 1: HR=101.00, RR=18.00
+- Mẫu 2: HR=81.00, RR=18.00
+- Mẫu 3: HR=75.00, RR=20.00
+- Mẫu 4: HR=66.00, RR=4.00
+- Mẫu 5: HR=85.00, RR=21.00

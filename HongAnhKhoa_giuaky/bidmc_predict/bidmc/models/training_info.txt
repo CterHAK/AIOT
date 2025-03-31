@@ -1,0 +1,15 @@
+THÔNG TIN HUẤN LUYỆN MÔ HÌNH CVAE
+=================================
+
+Tham số huấn luyện:
+- Kích thước batch: 64
+- Số epoch: 300
+- Tốc độ học ban đầu: 0.0001
+- Số bộ lọc Conv1D: [256, 128, 64]
+- Kích thước không gian tiềm ẩn: 32
+
+Kết quả huấn luyện:
+- Số epoch đã huấn luyện: 300
+- Loss cuối cùng (train): 0.0328
+- Loss cuối cùng (validation): 0.0327
+- Thời gian huấn luyện: 663.84 giây
