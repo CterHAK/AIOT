@@ -1,0 +1,11 @@
+KẾT QUẢ ĐÁNH GIÁ MÔ HÌNH CVAE (V2.1)
+===================================
+
+MSE (Time): Mean=0.0232, Std=0.0179
+PSNR: Mean=15.16, Std=1.97
+Corr: Mean=0.0083, Std=0.0656
+MSE (Freq): Mean=0.0000, Std=0.0000
+HR Error: Mean=84.23, Std=0.65
+RR Error: Mean=12.10, Std=0.69
+
+Nhận xét: Mô hình tái tạo tín hiệu PPG với chất lượng trung bình, nhưng chưa phản ánh tốt HR/RR thực tế.

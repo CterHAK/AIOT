@@ -1,0 +1,23 @@
+BÁO CÁO KHÁM PHÁ DỮ LIỆU BIDMC PPG AND RESPIRATION DATASET
+==========================================================
+
+Số lượng bản ghi: 53
+
+Cấu trúc dữ liệu:
+- Mỗi bản ghi chứa các trường: ppg, ekg, ref, fix
+- Tín hiệu PPG và ECG được lưu trữ với giá trị (v) và tần số lấy mẫu (fs)
+- Tín hiệu hô hấp được lưu trữ trong trường ref.resp_sig.imp
+- Các thông số sinh lý (HR, RR, PR, SpO2) được lưu trữ trong trường ref.params
+
+Tần số lấy mẫu PPG: 125.0 Hz
+Tần số lấy mẫu ECG: 125.0 Hz
+Tần số lấy mẫu Resp: 125.0 Hz
+
+Thách thức trong việc truy cập dữ liệu:
+- Cấu trúc dữ liệu phức tạp với nhiều lớp lồng nhau
+- Khó khăn trong việc chuyển đổi dữ liệu HR và RR sang định dạng float
+- Cần phương pháp tiếp cận cẩn thận để trích xuất và xử lý dữ liệu
+
+Các file đã tạo:
+1. sample_signals.png - Biểu đồ mẫu của tín hiệu ECG, PPG và Respiratory
+2. ppg_fft.png, ecg_fft.png, resp_fft.png - Phân tích phổ tần số của các tín hiệu
